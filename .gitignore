@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
+# this is supposed to be meant for any files i want to ignore
+
 grafana
 newrelic
 prometus
->>>>>>> 3889904 (dynatrace added for APM)
-=======
+
 info.dev
 
 # .gitignore with this you can take out all the files you don't # want git to trach
->>>>>>> 377f782 (infor_developers ignored)
