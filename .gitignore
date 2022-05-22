@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 # this is supposed to be meant for any files i want to ignore
+=======
+<<<<<<< HEAD
+=======
+grafana
+newrelic
+prometus
+>>>>>>> 3889904 (dynatrace added for APM)
+>>>>>>> ee1151a (deploy to stagine environment updated)
