@@ -10,10 +10,14 @@ deployment5
 deployment4
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> db991d1 (move to deployment4)
 
 deploy to staging env
 echo good job
 tested and accepted
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 deploy to staging
@@ -32,3 +36,8 @@ echo good job
 tested and accepted
 >>>>>>> ee1151a (deploy to stagine environment updated)
 >>>>>>> 1fedac1 (ignored files)
+=======
+=======
+deploy to staging
+>>>>>>> abb3376 (deploy to the staging environment)
+>>>>>>> db991d1 (move to deployment4)
