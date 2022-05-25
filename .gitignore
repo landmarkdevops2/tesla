@@ -1,3 +1,12 @@
+mistakebranch
+
+# this is supposed to be meant for any files i want to ignore
+grafana
+newrelic
+prometus
+ 3889904 (dynatrace added for APM)
+ ee1151a (deploy to stagine environment updated)
+=======
 
 # this is supposed to be meant for any files i want to ignore
 
@@ -7,4 +16,4 @@ prometus
 
 info.dev
 
-# .gitignore with this you can take out all the files you don't # want git to trach
+# .gitignore with this you can take out all the files you don't # want git to track
