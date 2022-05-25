@@ -5,4 +5,5 @@ print('chidi')
 print('grace')
 print('glory')
 
+bug removed
 
